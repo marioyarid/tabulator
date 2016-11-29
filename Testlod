@@ -1,0 +1,11 @@
+<rdf:Description about=“http://dbpedia.org/page/Catching_Fire”>
+    <dbo:abstract rdf:Resource="http://dbpedia.org/ontology/abstract">
+    <dbo:author rdf:Resource="http://dbpedia.org/page/Suzanne_Collins">
+    <dbo:country rdf:Resource="http://dbpedia.org/page/United_States">
+    <dbo:coverArtist rdf:Resource="http://dbpedia.org/page/Tim_O'Brien_(illustrator)">
+</rdf:Description> 
+<http://wiki2dbpedia.org/writtenwork/book/hunger_games/catching_fire> 
+owl:sameAs <https://www.wikidata.org/wiki/Q837140>
+owl:sameAS <http://de.dbpedia.org/page/Die_Tribute_von_Panem_%E2%80%93_Gef%C3%A4hrliche_Liebe>
+owl:sameAS <http://wikidata.dbpedia.org/page/Q837140> 
+owl:sameAs <http://lod.openlinksw.com/describe/?uri=http://yago-knowledge.org/resource/Catching_Fire> 
